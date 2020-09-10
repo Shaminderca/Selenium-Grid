@@ -1,0 +1,259 @@
+2020-09-08 13:57:31 INFO  TestBase:14 - Starting of TestclickOnBusinessTrialTest
+2020-09-08 13:57:32 INFO  TestBase:21 - Success of TestclickOnBusinessTrialTest
+2020-09-08 13:57:40 INFO  TestBase:14 - Starting of TestclickOnComparePlansTest
+2020-09-08 13:57:42 INFO  TestBase:21 - Success of TestclickOnComparePlansTest
+2020-09-08 13:57:50 INFO  TestBase:14 - Starting of TestlaptopLogoIsDisplayedTest
+2020-09-08 13:57:51 INFO  TestBase:21 - Success of TestlaptopLogoIsDisplayedTest
+2020-09-08 13:57:59 INFO  TestBase:14 - Starting of TestverifyColorTest
+2020-09-08 13:57:59 INFO  TestBase:35 - Test SkippedverifyColorTest
+2020-09-08 13:58:07 INFO  TestBase:14 - Starting of TestverifyColorTest
+2020-09-08 13:58:07 INFO  TestBase:35 - Test SkippedverifyColorTest
+2020-09-08 13:58:17 INFO  TestBase:14 - Starting of TestverifyColorTest
+2020-09-08 13:58:17 INFO  TestBase:28 - Failure of TestverifyColorTest
+2020-09-08 14:01:02 INFO  TestBase:14 - Starting of TestclickOnBusinessTrialTest
+2020-09-08 14:01:03 INFO  TestBase:21 - Success of TestclickOnBusinessTrialTest
+2020-09-08 14:01:11 INFO  TestBase:14 - Starting of TestclickOnComparePlansTest
+2020-09-08 14:01:12 INFO  TestBase:21 - Success of TestclickOnComparePlansTest
+2020-09-08 14:01:21 INFO  TestBase:14 - Starting of TestlaptopLogoIsDisplayedTest
+2020-09-08 14:01:22 INFO  TestBase:21 - Success of TestlaptopLogoIsDisplayedTest
+2020-09-08 14:01:30 INFO  TestBase:14 - Starting of TestverifyColorTest
+2020-09-08 14:01:31 INFO  TestBase:35 - Test SkippedverifyColorTest
+2020-09-08 14:01:40 INFO  TestBase:14 - Starting of TestverifyColorTest
+2020-09-08 14:01:40 INFO  TestBase:35 - Test SkippedverifyColorTest
+2020-09-08 14:01:49 INFO  TestBase:14 - Starting of TestverifyColorTest
+2020-09-08 14:01:49 INFO  TestBase:28 - Failure of TestverifyColorTest
+2020-09-08 14:03:36 INFO  TestBase:14 - Starting of TestclickOnBusinessTrialTest
+2020-09-08 14:03:37 INFO  TestBase:21 - Success of TestclickOnBusinessTrialTest
+2020-09-08 14:03:46 INFO  TestBase:14 - Starting of TestclickOnComparePlansTest
+2020-09-08 14:03:47 INFO  TestBase:21 - Success of TestclickOnComparePlansTest
+2020-09-08 14:03:55 INFO  TestBase:14 - Starting of TestlaptopLogoIsDisplayedTest
+2020-09-08 14:03:56 INFO  TestBase:21 - Success of TestlaptopLogoIsDisplayedTest
+2020-09-08 14:04:04 INFO  TestBase:14 - Starting of TestverifyColorTest
+2020-09-08 14:04:05 INFO  TestBase:35 - Test SkippedverifyColorTest
+2020-09-08 14:04:13 INFO  TestBase:14 - Starting of TestverifyColorTest
+2020-09-08 14:04:13 INFO  TestBase:35 - Test SkippedverifyColorTest
+2020-09-08 14:04:21 INFO  TestBase:14 - Starting of TestverifyColorTest
+2020-09-08 14:04:21 INFO  TestBase:28 - Failure of TestverifyColorTest
+2020-09-09 10:33:29 INFO  TestBase:14 - Starting of TestverifyColorOfLearnMoreButton
+2020-09-09 10:33:29 INFO  TestBase:21 - Success of TestverifyColorOfLearnMoreButton
+2020-09-09 10:33:38 INFO  TestBase:14 - Starting of TestclickOnLearnMoreButtonTest
+2020-09-09 10:33:43 INFO  TestBase:21 - Success of TestclickOnLearnMoreButtonTest
+2020-09-09 10:33:52 INFO  TestBase:14 - Starting of TestclickOnStartFreeTrialButtonTest
+2020-09-09 10:33:54 INFO  TestBase:21 - Success of TestclickOnStartFreeTrialButtonTest
+2020-09-09 10:34:03 INFO  TestBase:14 - Starting of TestheadingDispalyMethodTest
+2020-09-09 10:34:04 INFO  TestBase:21 - Success of TestheadingDispalyMethodTest
+2020-09-09 10:34:13 INFO  TestBase:14 - Starting of TestsignUpFunctionalityTest
+2020-09-09 10:34:16 INFO  TestBase:28 - Failure of TestsignUpFunctionalityTest
+2020-09-09 10:34:25 INFO  TestBase:14 - Starting of TestclickOnIconsTest
+2020-09-09 10:34:27 INFO  TestBase:21 - Success of TestclickOnIconsTest
+2020-09-09 10:34:37 INFO  TestBase:14 - Starting of TestclickStartHomeTrialButton
+2020-09-09 10:34:38 INFO  TestBase:21 - Success of TestclickStartHomeTrialButton
+2020-09-09 10:34:49 INFO  TestBase:14 - Starting of TestclickOnBusinessTrialTest
+2020-09-09 10:34:53 INFO  TestBase:21 - Success of TestclickOnBusinessTrialTest
+2020-09-09 10:35:02 INFO  TestBase:14 - Starting of TestclickOnComparePlansTest
+2020-09-09 10:35:04 INFO  TestBase:21 - Success of TestclickOnComparePlansTest
+2020-09-09 10:35:14 INFO  TestBase:14 - Starting of TestlaptopLogoIsDisplayedTest
+2020-09-09 10:35:15 INFO  TestBase:21 - Success of TestlaptopLogoIsDisplayedTest
+2020-09-09 10:35:25 INFO  TestBase:14 - Starting of TestverifyColorTest
+2020-09-09 10:35:26 INFO  TestBase:28 - Failure of TestverifyColorTest
+2020-09-09 10:35:35 INFO  TestBase:14 - Starting of TestheadingComparsisonTest
+2020-09-09 10:35:38 INFO  TestBase:21 - Success of TestheadingComparsisonTest
+2020-09-09 10:41:15 INFO  TestBase:14 - Starting of TestverifyColorOfLearnMoreButton
+2020-09-09 10:41:15 INFO  TestBase:21 - Success of TestverifyColorOfLearnMoreButton
+2020-09-09 10:41:24 INFO  TestBase:14 - Starting of TestclickOnLearnMoreButtonTest
+2020-09-09 10:41:27 INFO  TestBase:21 - Success of TestclickOnLearnMoreButtonTest
+2020-09-09 10:41:36 INFO  TestBase:14 - Starting of TestclickOnStartFreeTrialButtonTest
+2020-09-09 10:41:38 INFO  TestBase:21 - Success of TestclickOnStartFreeTrialButtonTest
+2020-09-09 10:41:47 INFO  TestBase:14 - Starting of TestheadingDispalyMethodTest
+2020-09-09 10:41:48 INFO  TestBase:21 - Success of TestheadingDispalyMethodTest
+2020-09-09 10:41:56 INFO  TestBase:14 - Starting of TestsignUpFunctionalityTest
+2020-09-09 10:41:58 INFO  TestBase:28 - Failure of TestsignUpFunctionalityTest
+2020-09-09 10:42:10 INFO  TestBase:14 - Starting of TestclickOnIconsTest
+2020-09-09 10:42:11 INFO  TestBase:21 - Success of TestclickOnIconsTest
+2020-09-09 10:42:21 INFO  TestBase:14 - Starting of TestclickStartHomeTrialButton
+2020-09-09 10:42:22 INFO  TestBase:21 - Success of TestclickStartHomeTrialButton
+2020-09-09 10:42:32 INFO  TestBase:14 - Starting of TestclickOnBusinessTrialTest
+2020-09-09 10:42:36 INFO  TestBase:21 - Success of TestclickOnBusinessTrialTest
+2020-09-09 10:42:46 INFO  TestBase:14 - Starting of TestclickOnComparePlansTest
+2020-09-09 10:42:48 INFO  TestBase:21 - Success of TestclickOnComparePlansTest
+2020-09-09 10:42:57 INFO  TestBase:14 - Starting of TestlaptopLogoIsDisplayedTest
+2020-09-09 10:42:59 INFO  TestBase:21 - Success of TestlaptopLogoIsDisplayedTest
+2020-09-09 10:43:08 INFO  TestBase:14 - Starting of TestverifyColorTest
+2020-09-09 10:43:09 INFO  TestBase:28 - Failure of TestverifyColorTest
+2020-09-09 10:43:20 INFO  TestBase:14 - Starting of TestheadingComparsisonTest
+2020-09-09 10:43:21 INFO  TestBase:21 - Success of TestheadingComparsisonTest
+2020-09-09 10:48:42 INFO  TestBase:35 - Test SkippedsignUpFunctionalityTest
+2020-09-09 10:48:43 INFO  TestBase:14 - Starting of TestclickOnIconsTest
+2020-09-09 10:48:44 INFO  TestBase:35 - Test SkippedclickOnBusinessTrialTest
+2020-09-09 10:48:44 INFO  TestBase:35 - Test SkippedclickOnComparePlansTest
+2020-09-09 10:48:44 INFO  TestBase:35 - Test SkippedlaptopLogoIsDisplayedTest
+2020-09-09 10:48:44 INFO  TestBase:35 - Test SkippedverifyColorTest
+2020-09-09 10:48:44 INFO  TestBase:35 - Test SkippedverifyColorOfLearnMoreButton
+2020-09-09 10:48:44 INFO  TestBase:35 - Test SkippedclickOnLearnMoreButtonTest
+2020-09-09 10:48:44 INFO  TestBase:35 - Test SkippedclickOnStartFreeTrialButtonTest
+2020-09-09 10:48:44 INFO  TestBase:35 - Test SkippedheadingDispalyMethodTest
+2020-09-09 10:48:44 INFO  TestBase:21 - Success of TestclickOnIconsTest
+2020-09-09 10:48:53 INFO  TestBase:14 - Starting of TestclickStartHomeTrialButton
+2020-09-09 10:48:56 INFO  TestBase:21 - Success of TestclickStartHomeTrialButton
+2020-09-09 10:48:56 INFO  TestBase:35 - Test SkippedheadingComparsisonTest
+2020-09-09 10:50:11 INFO  TestBase:14 - Starting of TestsignUpFunctionalityTest
+2020-09-09 10:50:12 INFO  TestBase:14 - Starting of TestverifyColorOfLearnMoreButton
+2020-09-09 10:50:22 INFO  TestBase:28 - Failure of TestsignUpFunctionalityTest
+2020-09-09 10:50:22 INFO  TestBase:21 - Success of TestverifyColorOfLearnMoreButton
+2020-09-09 10:50:34 INFO  TestBase:14 - Starting of TestclickOnIconsTest
+2020-09-09 10:50:34 INFO  TestBase:35 - Test SkippedclickOnLearnMoreButtonTest
+2020-09-09 10:50:34 INFO  TestBase:35 - Test SkippedclickOnStartFreeTrialButtonTest
+2020-09-09 10:50:34 INFO  TestBase:35 - Test SkippedheadingDispalyMethodTest
+2020-09-09 10:50:35 INFO  TestBase:21 - Success of TestclickOnIconsTest
+2020-09-09 10:50:44 INFO  TestBase:35 - Test SkippedclickOnBusinessTrialTest
+2020-09-09 10:50:44 INFO  TestBase:35 - Test SkippedclickOnComparePlansTest
+2020-09-09 10:50:44 INFO  TestBase:35 - Test SkippedlaptopLogoIsDisplayedTest
+2020-09-09 10:50:44 INFO  TestBase:35 - Test SkippedverifyColorTest
+2020-09-09 10:50:48 INFO  TestBase:14 - Starting of TestclickStartHomeTrialButton
+2020-09-09 10:50:48 INFO  TestBase:21 - Success of TestclickStartHomeTrialButton
+2020-09-09 10:50:49 INFO  TestBase:35 - Test SkippedheadingComparsisonTest
+2020-09-09 10:55:54 INFO  TestBase:14 - Starting of TestsignUpFunctionalityTest
+2020-09-09 10:55:56 INFO  TestBase:14 - Starting of TestclickOnIconsTest
+2020-09-09 10:55:56 INFO  TestBase:28 - Failure of TestsignUpFunctionalityTest
+2020-09-09 10:55:56 INFO  TestBase:35 - Test SkippedverifyColorOfLearnMoreButton
+2020-09-09 10:55:58 INFO  TestBase:28 - Failure of TestclickOnIconsTest
+2020-09-09 10:55:58 INFO  TestBase:28 - Failure of TestclickOnIconsTest
+2020-09-09 10:56:03 INFO  TestBase:35 - Test SkippedclickOnLearnMoreButtonTest
+2020-09-09 10:56:03 INFO  TestBase:35 - Test SkippedclickOnStartFreeTrialButtonTest
+2020-09-09 10:56:03 INFO  TestBase:35 - Test SkippedheadingComparsisonTest
+2020-09-09 10:56:03 INFO  TestBase:35 - Test SkippedheadingDispalyMethodTest
+2020-09-09 10:56:04 INFO  TestBase:35 - Test SkippedclickOnBusinessTrialTest
+2020-09-09 10:56:04 INFO  TestBase:35 - Test SkippedclickOnComparePlansTest
+2020-09-09 10:56:04 INFO  TestBase:35 - Test SkippedlaptopLogoIsDisplayedTest
+2020-09-09 10:56:04 INFO  TestBase:35 - Test SkippedverifyColorTest
+2020-09-09 11:04:41 INFO  TestBase:35 - Test SkippedclickOnBusinessTrialTest
+2020-09-09 11:04:41 INFO  TestBase:35 - Test SkippedclickOnIconsTest
+2020-09-09 11:04:41 INFO  TestBase:35 - Test SkippedclickOnLearnMoreButtonTest
+2020-09-09 11:04:41 INFO  TestBase:35 - Test SkippedverifyColorOfLearnMoreButton
+2020-09-09 11:04:41 INFO  TestBase:35 - Test SkippedsignUpFunctionalityTest
+2020-09-09 11:04:41 INFO  TestBase:35 - Test SkippedclickOnComparePlansTest
+2020-09-09 11:04:41 INFO  TestBase:35 - Test SkippedclickOnStartFreeTrialButtonTest
+2020-09-09 11:04:41 INFO  TestBase:35 - Test SkippedclickStartHomeTrialButton
+2020-09-09 11:04:41 INFO  TestBase:35 - Test SkippedlaptopLogoIsDisplayedTest
+2020-09-09 11:04:41 INFO  TestBase:35 - Test SkippedheadingComparsisonTest
+2020-09-09 11:04:41 INFO  TestBase:35 - Test SkippedverifyColorTest
+2020-09-09 11:04:41 INFO  TestBase:35 - Test SkippedheadingDispalyMethodTest
+2020-09-09 11:09:02 INFO  TestBase:14 - Starting of TestsignUpFunctionalityTest
+2020-09-09 11:09:06 INFO  TestBase:14 - Starting of TestclickOnLearnMoreButtonTest
+2020-09-09 11:09:06 INFO  TestBase:35 - Test SkippedclickOnIconsTest
+2020-09-09 11:09:06 INFO  TestBase:35 - Test SkippedclickOnBusinessTrialTest
+2020-09-09 11:09:06 INFO  TestBase:28 - Failure of TestsignUpFunctionalityTest
+2020-09-09 11:09:06 INFO  TestBase:35 - Test SkippedclickStartHomeTrialButton
+2020-09-09 11:09:06 INFO  TestBase:35 - Test SkippedclickOnComparePlansTest
+2020-09-09 11:09:06 INFO  TestBase:35 - Test SkippedlaptopLogoIsDisplayedTest
+2020-09-09 11:09:06 INFO  TestBase:35 - Test SkippedverifyColorTest
+2020-09-09 11:09:06 INFO  TestBase:35 - Test SkippedverifyColorOfLearnMoreButton
+2020-09-09 11:09:10 INFO  TestBase:28 - Failure of TestclickOnLearnMoreButtonTest
+2020-09-09 11:09:10 INFO  TestBase:28 - Failure of TestclickOnLearnMoreButtonTest
+2020-09-09 11:27:00 INFO  TestBase:14 - Starting of TestsignUpFunctionalityTest
+2020-09-09 11:27:03 INFO  TestBase:14 - Starting of TestverifyColorOfLearnMoreButton
+2020-09-09 11:27:13 INFO  TestBase:28 - Failure of TestsignUpFunctionalityTest
+2020-09-09 11:27:14 INFO  TestBase:21 - Success of TestverifyColorOfLearnMoreButton
+2020-09-09 11:27:31 INFO  TestBase:14 - Starting of TestclickOnLearnMoreButtonTest
+2020-09-09 11:27:32 INFO  TestBase:14 - Starting of TestclickOnIconsTest
+2020-09-09 11:27:33 INFO  TestBase:28 - Failure of TestclickOnLearnMoreButtonTest
+2020-09-09 11:27:36 INFO  TestBase:28 - Failure of TestclickOnIconsTest
+2020-09-09 11:27:36 INFO  TestBase:28 - Failure of TestclickOnIconsTest
+2020-09-09 11:27:49 INFO  TestBase:14 - Starting of TestclickOnStartFreeTrialButtonTest
+2020-09-09 11:27:50 INFO  TestBase:35 - Test SkippedclickOnBusinessTrialTest
+2020-09-09 11:27:50 INFO  TestBase:35 - Test SkippedclickOnComparePlansTest
+2020-09-09 11:27:50 INFO  TestBase:35 - Test SkippedlaptopLogoIsDisplayedTest
+2020-09-09 11:27:50 INFO  TestBase:35 - Test SkippedverifyColorTest
+2020-09-09 11:27:53 INFO  TestBase:21 - Success of TestclickOnStartFreeTrialButtonTest
+2020-09-09 11:28:03 INFO  TestBase:14 - Starting of TestheadingComparsisonTest
+2020-09-09 11:28:05 INFO  TestBase:21 - Success of TestheadingComparsisonTest
+2020-09-09 11:37:47 INFO  TestBase:35 - Test SkippedheadingDispalyMethodTest
+2020-09-09 11:39:15 INFO  TestBase:14 - Starting of TestsignUpFunctionalityTest
+2020-09-09 11:39:18 INFO  TestBase:14 - Starting of TestverifyColorOfLearnMoreButton
+2020-09-09 11:39:28 INFO  TestBase:28 - Failure of TestsignUpFunctionalityTest
+2020-09-09 11:39:29 INFO  TestBase:21 - Success of TestverifyColorOfLearnMoreButton
+2020-09-09 11:39:39 INFO  TestBase:35 - Test SkippedclickOnLearnMoreButtonTest
+2020-09-09 11:39:39 INFO  TestBase:35 - Test SkippedclickOnStartFreeTrialButtonTest
+2020-09-09 11:39:39 INFO  TestBase:35 - Test SkippedheadingComparsisonTest
+2020-09-09 11:39:39 INFO  TestBase:35 - Test SkippedheadingDispalyMethodTest
+2020-09-09 11:39:40 INFO  TestBase:14 - Starting of TestclickOnIconsTest
+2020-09-09 11:39:43 INFO  TestBase:21 - Success of TestclickOnIconsTest
+2020-09-09 11:39:46 INFO  TestBase:35 - Test SkippedclickOnBusinessTrialTest
+2020-09-09 11:39:46 INFO  TestBase:35 - Test SkippedclickOnComparePlansTest
+2020-09-09 11:39:46 INFO  TestBase:35 - Test SkippedlaptopLogoIsDisplayedTest
+2020-09-09 11:39:46 INFO  TestBase:35 - Test SkippedverifyColorTest
+2020-09-09 11:39:56 INFO  TestBase:14 - Starting of TestclickStartHomeTrialButton
+2020-09-09 11:39:58 INFO  TestBase:21 - Success of TestclickStartHomeTrialButton
+2020-09-09 11:51:41 INFO  TestBase:14 - Starting of TestsignUpFunctionalityTest
+2020-09-09 11:51:44 INFO  TestBase:14 - Starting of TestverifyColorOfLearnMoreButton
+2020-09-09 11:51:54 INFO  TestBase:28 - Failure of TestsignUpFunctionalityTest
+2020-09-09 11:51:55 INFO  TestBase:21 - Success of TestverifyColorOfLearnMoreButton
+2020-09-09 11:52:08 INFO  TestBase:14 - Starting of TestclickOnIconsTest
+2020-09-09 11:52:10 INFO  TestBase:14 - Starting of TestclickOnLearnMoreButtonTest
+2020-09-09 11:52:10 INFO  TestBase:28 - Failure of TestclickOnIconsTest
+2020-09-09 11:52:14 INFO  TestBase:21 - Success of TestclickOnLearnMoreButtonTest
+2020-09-09 11:52:20 INFO  TestBase:14 - Starting of TestclickStartHomeTrialButton
+2020-09-09 11:52:24 INFO  TestBase:21 - Success of TestclickStartHomeTrialButton
+2020-09-09 12:02:46 INFO  TestBase:35 - Test SkippedclickOnBusinessTrialTest
+2020-09-09 12:02:46 INFO  TestBase:35 - Test SkippedclickOnStartFreeTrialButtonTest
+2020-09-09 12:02:46 INFO  TestBase:35 - Test SkippedclickOnComparePlansTest
+2020-09-09 12:02:46 INFO  TestBase:35 - Test SkippedheadingComparsisonTest
+2020-09-09 12:02:46 INFO  TestBase:35 - Test SkippedlaptopLogoIsDisplayedTest
+2020-09-09 12:02:46 INFO  TestBase:35 - Test SkippedheadingDispalyMethodTest
+2020-09-09 12:02:46 INFO  TestBase:35 - Test SkippedverifyColorTest
+2020-09-09 12:05:41 INFO  TestBase:14 - Starting of TestsignUpFunctionalityTest
+2020-09-09 12:05:45 INFO  TestBase:14 - Starting of TestverifyColorOfLearnMoreButton
+2020-09-09 12:05:55 INFO  TestBase:28 - Failure of TestsignUpFunctionalityTest
+2020-09-09 12:05:56 INFO  TestBase:21 - Success of TestverifyColorOfLearnMoreButton
+2020-09-09 12:06:08 INFO  TestBase:14 - Starting of TestclickOnBusinessTrialTest
+2020-09-09 12:06:11 INFO  TestBase:21 - Success of TestclickOnBusinessTrialTest
+2020-09-09 12:06:11 INFO  TestBase:14 - Starting of TestclickOnComparePlansTest
+2020-09-09 12:06:21 INFO  TestBase:28 - Failure of TestclickOnComparePlansTest
+2020-09-09 12:06:22 INFO  TestBase:14 - Starting of TestlaptopLogoIsDisplayedTest
+2020-09-09 12:06:32 INFO  TestBase:28 - Failure of TestlaptopLogoIsDisplayedTest
+2020-09-09 12:06:33 INFO  TestBase:14 - Starting of TestverifyColorTest
+2020-09-09 12:06:33 INFO  TestBase:28 - Failure of TestverifyColorTest
+2020-09-09 12:12:25 INFO  TestBase:14 - Starting of TestsignUpFunctionalityTest
+2020-09-09 12:12:26 INFO  TestBase:14 - Starting of TestverifyColorOfLearnMoreButton
+2020-09-09 12:12:27 INFO  TestBase:28 - Failure of TestsignUpFunctionalityTest
+2020-09-09 12:12:28 INFO  TestBase:21 - Success of TestverifyColorOfLearnMoreButton
+2020-09-09 12:12:39 INFO  TestBase:14 - Starting of TestclickOnBusinessTrialTest
+2020-09-09 12:12:42 INFO  TestBase:21 - Success of TestclickOnBusinessTrialTest
+2020-09-09 12:12:53 INFO  TestBase:14 - Starting of TestclickOnComparePlansTest
+2020-09-09 12:12:56 INFO  TestBase:21 - Success of TestclickOnComparePlansTest
+2020-09-09 12:21:29 INFO  TestBase:14 - Starting of TestsignUpFunctionalityTest
+2020-09-09 12:21:30 INFO  TestBase:14 - Starting of TestverifyColorOfLearnMoreButton
+2020-09-09 12:21:30 INFO  TestBase:28 - Failure of TestsignUpFunctionalityTest
+2020-09-09 12:21:32 INFO  TestBase:28 - Failure of TestverifyColorOfLearnMoreButton
+2020-09-09 12:21:43 INFO  TestBase:14 - Starting of TestclickOnBusinessTrialTest
+2020-09-09 12:21:47 INFO  TestBase:21 - Success of TestclickOnBusinessTrialTest
+2020-09-09 12:21:56 INFO  TestBase:14 - Starting of TestclickOnComparePlansTest
+2020-09-09 12:21:59 INFO  TestBase:21 - Success of TestclickOnComparePlansTest
+2020-09-09 12:22:08 INFO  TestBase:14 - Starting of TestlaptopLogoIsDisplayedTest
+2020-09-09 12:22:09 INFO  TestBase:21 - Success of TestlaptopLogoIsDisplayedTest
+2020-09-09 12:22:22 INFO  TestBase:14 - Starting of TestverifyColorTest
+2020-09-09 12:22:24 INFO  TestBase:28 - Failure of TestverifyColorTest
+2020-09-09 12:48:09 INFO  TestBase:14 - Starting of TestverifyColorOfLearnMoreButton
+2020-09-09 12:48:10 INFO  TestBase:21 - Success of TestverifyColorOfLearnMoreButton
+2020-09-09 12:48:18 INFO  TestBase:14 - Starting of TestsignUpFunctionalityTest
+2020-09-09 12:48:21 INFO  TestBase:28 - Failure of TestsignUpFunctionalityTest
+2020-09-09 12:48:31 INFO  TestBase:14 - Starting of TestclickOnBusinessTrialTest
+2020-09-09 12:48:34 INFO  TestBase:21 - Success of TestclickOnBusinessTrialTest
+2020-09-09 12:48:43 INFO  TestBase:14 - Starting of TestclickOnComparePlansTest
+2020-09-09 12:48:47 INFO  TestBase:21 - Success of TestclickOnComparePlansTest
+2020-09-09 12:48:57 INFO  TestBase:14 - Starting of TestlaptopLogoIsDisplayedTest
+2020-09-09 12:48:59 INFO  TestBase:21 - Success of TestlaptopLogoIsDisplayedTest
+2020-09-09 12:49:08 INFO  TestBase:14 - Starting of TestverifyColorTest
+2020-09-09 12:49:11 INFO  TestBase:28 - Failure of TestverifyColorTest
+2020-09-09 12:51:04 INFO  TestBase:35 - Test SkippedsignUpFunctionalityTest
+2020-09-09 12:51:04 INFO  TestBase:35 - Test SkippedverifyColorOfLearnMoreButton
+2020-09-09 13:05:02 INFO  TestBase:14 - Starting of TestsignUpFunctionalityTest
+2020-09-09 13:05:03 INFO  TestBase:14 - Starting of TestverifyColorOfLearnMoreButton
+2020-09-09 13:05:13 INFO  TestBase:28 - Failure of TestsignUpFunctionalityTest
+2020-09-09 13:05:13 INFO  TestBase:21 - Success of TestverifyColorOfLearnMoreButton
+2020-09-09 13:05:25 INFO  TestBase:14 - Starting of TestclickOnBusinessTrialTest
+2020-09-09 13:05:26 INFO  TestBase:14 - Starting of TestclickOnComparePlansTest
+2020-09-09 13:05:37 INFO  TestBase:21 - Success of TestclickOnBusinessTrialTest
+2020-09-09 13:05:37 INFO  TestBase:28 - Failure of TestclickOnComparePlansTest
+2020-09-09 13:05:46 INFO  TestBase:35 - Test SkippedverifyColorTest
+2020-09-09 13:05:52 INFO  TestBase:35 - Test SkippedlaptopLogoIsDisplayedTest

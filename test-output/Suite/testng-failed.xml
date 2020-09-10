@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" parallel="methods" name="Test(failed)">
+    <classes>
+      <class name="com.carbonite.qa.testcases.HomeBackupPageTest">
+        <methods>
+          <include name="setUp"/>
+          <include name="tearDown"/>
+          <include name="loggersetUp"/>
+          <include name="signUpFunctionalityTest"/>
+        </methods>
+      </class> <!-- com.carbonite.qa.testcases.HomeBackupPageTest -->
+      <class name="com.carbonite.qa.testcases.BusinessBackupPageTest">
+        <methods>
+          <include name="clickOnComparePlansTest"/>
+          <include name="setUp"/>
+          <include name="verifyColorTest"/>
+          <include name="teraDown"/>
+          <include name="clickOnBusinessTrialTest"/>
+          <include name="loggersetUp"/>
+          <include name="laptopLogoIsDisplayedTest"/>
+        </methods>
+      </class> <!-- com.carbonite.qa.testcases.BusinessBackupPageTest -->
+      <class name="com.carbonite.qa.testcases.AllProductsPageTest">
+        <methods>
+          <include name="verifyColorOfLearnMoreButton"/>
+          <include name="setUp"/>
+          <include name="teraDown"/>
+          <include name="loggersetUp"/>
+        </methods>
+      </class> <!-- com.carbonite.qa.testcases.AllProductsPageTest -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->
